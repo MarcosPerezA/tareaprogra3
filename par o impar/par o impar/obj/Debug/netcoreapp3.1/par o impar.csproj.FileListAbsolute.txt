@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.exe
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.deps.json
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.dll
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.pdb
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.dll
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.pdb
+C:\Users\W10\Desktop\programas prora\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.genruntimeconfig.cache

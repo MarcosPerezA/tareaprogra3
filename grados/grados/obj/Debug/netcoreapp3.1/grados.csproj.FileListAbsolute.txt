@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.exe
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.deps.json
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.dll
+C:\Users\W10\Desktop\programas prora\grados\grados\bin\Debug\netcoreapp3.1\grados.pdb
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.dll
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.pdb
+C:\Users\W10\Desktop\programas prora\grados\grados\obj\Debug\netcoreapp3.1\grados.genruntimeconfig.cache

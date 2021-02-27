@@ -1,0 +1,12 @@
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.exe
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.deps.json
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.dll
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\bin\Debug\netcoreapp3.1\FACTORIAL.pdb
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.dll
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.pdb
+C:\Users\W10\Desktop\programas prora\FACTORIAL\FACTORIAL\obj\Debug\netcoreapp3.1\FACTORIAL.genruntimeconfig.cache

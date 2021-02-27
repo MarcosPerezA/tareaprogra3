@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.exe
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.deps.json
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.dll
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\bin\Debug\netcoreapp3.1\tabla de multiplicar.pdb
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.dll
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.pdb
+C:\Users\W10\Desktop\programas prora\tabla de multiplicar\tabla de multiplicar\obj\Debug\netcoreapp3.1\tabla de multiplicar.genruntimeconfig.cache

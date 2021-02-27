@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.exe
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.deps.json
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.dll
+C:\Users\W10\Desktop\programas prora\serie\serie\bin\Debug\netcoreapp3.1\serie.pdb
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.dll
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.pdb
+C:\Users\W10\Desktop\programas prora\serie\serie\obj\Debug\netcoreapp3.1\serie.genruntimeconfig.cache

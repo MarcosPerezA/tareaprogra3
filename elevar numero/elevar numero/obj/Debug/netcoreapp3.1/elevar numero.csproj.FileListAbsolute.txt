@@ -1,0 +1,13 @@
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.exe
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.deps.json
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.runtimeconfig.json
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.runtimeconfig.dev.json
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.dll
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\bin\Debug\netcoreapp3.1\elevar numero.pdb
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.csprojAssemblyReference.cache
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.AssemblyInfoInputs.cache
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.AssemblyInfo.cs
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.csproj.CoreCompileInputs.cache
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.dll
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.pdb
+C:\Users\W10\Desktop\programas prora\elevar numero\elevar numero\obj\Debug\netcoreapp3.1\elevar numero.genruntimeconfig.cache
